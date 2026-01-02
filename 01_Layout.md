@@ -2,8 +2,8 @@
 
 **Preamble**
 The primary location for the execution of the game designated as "Animal Tag" shall be the Bui household, subject to the specific definitions outlined herein. Any locations external to this document's scope shall be governed by the provisions detailed in "Misc." \
-#### Article I: Regions of Play \
-<img width="498" height="353" alt="image" src="https://github.com/user-attachments/assets/f8566717-16b8-423e-9ad7-abed2ea68862" /> \
+#### Article I: Regions of Play 
+<img width="498" height="353" alt="image" src="https://github.com/user-attachments/assets/f8566717-16b8-423e-9ad7-abed2ea68862" /> 
 **Section A: Eligible Regions**
 The playing area shall encompass the living room, the kitchen, and all pathways directly connecting the aforementioned two spaces. The total area is partitioned into six (6) designated regions, hereinafter referenced by numerical labels for documentation purposes only. Players are not required to memorize or cite these numerical labels during active gameplay.
 **Section B: Boundaries and Retrieval** \
