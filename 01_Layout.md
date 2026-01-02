@@ -7,7 +7,7 @@ The primary location for the execution of the game designated as "Animal Tag" sh
 **Section A: Eligible Regions**
 The playing area shall encompass the living room, the kitchen, and all pathways directly connecting the aforementioned two spaces. The total area is partitioned into six (6) designated regions, hereinafter referenced by numerical labels for documentation purposes only. Players are not required to memorize or cite these numerical labels during active gameplay.
 **Section B: Boundaries and Retrieval** \
-Players are expressly prohibited from traversing beyond the established boundaries for the purpose of evading a propelled animal. However, a player may temporarily step out of bounds solely for the purpose of retrieving a propelled animal that has exited the designated regions. \
+Players are expressly prohibited from traversing beyond the established boundaries for the purpose of evading a propelled animal. However, a player may temporarily step out of bounds solely for the purpose of retrieving a propelled animal that has exited the designated regions. 
 
 #### Article II: Terrain Regulations 
 \
