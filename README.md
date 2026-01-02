@@ -6,7 +6,7 @@ La Fortuleza
 \
 \
 \
-**Version History Summaries** \
+**Version History Summaries** 
 - 1.0.0 Base Game
 - 1.1.0 First Officiation of Game with Official Rules and Guidelines
 - 1.1.1 Lion Unicorn update
