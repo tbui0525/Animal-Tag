@@ -1,0 +1,1 @@
+The Minecraft Axolotl Ability, “Clone,” possesses the capacity to mimic another player’s ability, with the exception of “Multi Ability” Creatures, and Ultra Ball. The only cloned creatures available are ones actively in use by other players. The Minecraft Axolotl cannot clone abilities from creatures out of play.  
