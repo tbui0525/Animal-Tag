@@ -1,0 +1,1 @@
+The Snow Leopard ability grants the activating player a three-second period of invulnerability. During this invulnerability period, the activating player shall be immune to being designated as "It" or subject to "Sabotage" by any other participating players. The use of the Snow Leopard ability is subject to a one-minute cooldown period between activations by the same player.
