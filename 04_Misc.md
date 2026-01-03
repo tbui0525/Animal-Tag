@@ -18,11 +18,3 @@ In the course of contemporary events, if players find imbalance in a creature’
 The end result is such that no support creature is more powerful than another so no person possessing a specific support creature has a greater advantage than another person, creating a game more based on a balance of mental and physical agility. The same goes with sabotages. The overall goal for the sabotages is such that no sabotage is more powerful than the others, but sabotages (in general) are to be relatively stronger than support creatures, resulting in a genuine disadvantage given to those who have been sabotaged. Likewise, the Multiability Creatures typically have the strongest abilities, but are the most complex to use to balance out the advantages. 
 
 ## I agree to the rules and regulations of Animal Tag and hereby declare myself an official member of the Animal Tag community. I also automatically agree to any changes made to the Official Animal Tag Rules, Regulations, and Overall Gameplay given I participated in the decision-making.
-### Quang
-### Nhan
-### Huy
-### Nhi
-### Tam
-### Khang
-### An
-### An
