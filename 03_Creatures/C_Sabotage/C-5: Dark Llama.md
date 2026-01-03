@@ -1,0 +1,1 @@
+The consequence for the player designated as "the Dark Llama" (the last person to physically contact the Dark Llama) is the loss of ability to be armed. This effect stipulates that the designated player is prohibited from possessing any creature, except for the ability to be designated as "it." The only other sole exception to this prohibition is the possession of the Dark Llama.
