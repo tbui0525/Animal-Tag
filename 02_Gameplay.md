@@ -11,7 +11,7 @@ Participants are strictly prohibited from commencing the Game while in direct co
 
 #### Article II: Operational Mechanics
 
-**Section A: Creature Properties and Activation
+**Section A: Creature Properties and Activation**
 \
 Within the active Game, every Creature possesses a unique Property. This Property shall not activate instantaneously upon physical contact, save for specific exceptions, including the Panda's designation as "It" and certain Sabotage effects. To maintain clarity and transparency, a Participant utilizing a Creature's unique Property shall issue a verbal announcement, stating either the specific Ability (e.g., the Penguin's "Freeze") or the Species of the Animal (e.g., "Penguin"). The announcement of the Ability is required to be sufficiently specific to inform other Participants, though strict adherence to the exact terminology is not mandated (e.g., "invisible" may be used in lieu of "invincible," or "frozen" in lieu of "freeze"). Analogous latitude is extended to the Species announcement (e.g., "tiger" in lieu of "snow leopard," or "tortoise" in lieu of "turtle"). This requirement is established to ensure all Participants are cognizant of the activated ability and its possessor at any given moment.
 \
