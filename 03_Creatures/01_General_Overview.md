@@ -1,9 +1,9 @@
 ## Creature Specifics
 Creatures are classified into three distinct categories. These include: “It,” which is exclusively represented by the Panda; “Support” creatures, whose primary function is to benefit the possessor or any player who is not “It”; and “Sabotage” creatures, which are intended not to assist, but rather to disadvantage or 'nerf' another player.
 #### It 
-** For up to 6 total players **
-The player who last made contact with the Panda shall be designated as "It." The objective of the player designated as "It" is to transfer said designation by causing the Panda to come into contact with another participant. Notwithstanding the rules governing dodgeball, the Panda may ricochet off the playing surface or slide into contact with another player. The player designated as "It" is explicitly prohibited from holding or possessing any other playing object or creature. Said player may, however, be subject to sabotage by other players.
-** For 7 or more players **
+**For up to 6 total players** \
+The player who last made contact with the Panda shall be designated as "It." The objective of the player designated as "It" is to transfer said designation by causing the Panda to come into contact with another participant. Notwithstanding the rules governing dodgeball, the Panda may ricochet off the playing surface or slide into contact with another player. The player designated as "It" is explicitly prohibited from holding or possessing any other playing object or creature. Said player may, however, be subject to sabotage by other players. \
+**For 7 or more players** \
 In addition to the rules outlined above for up to 6 players, a secondary creature, the "Boo" shall too be designated as "It." "It" players cannot transfer designations to one another, thus no player could become "double It." 
 #### Support
 Activation of Support creature abilities necessitates the physical release or 'drop' of said creatures. A player is restricted to the utilization of a single support creature ability concurrently. Should a player currently possessing a support creature be designated as "It," the player is required to immediately relinquish possession of the creature. Furthermore, any ability that was actively engaged shall be immediately terminated upon the player's designation as "It."
