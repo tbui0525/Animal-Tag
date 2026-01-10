@@ -1,0 +1,1 @@
+The consequence for the player designated as "Bear" (the last person to physically contact the Bear) is the mandatory adoption of hibernation. Movement by the player shall be restricted solely to when eyes are closed, with opened eyes permitted exclusively upon becoming stationary.
