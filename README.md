@@ -21,4 +21,4 @@ La Fortuleza
 - 1.4.0 Hypercomplex power system with Among Us Crewmate 
 - 1.5.0 The Great Cleansing. Game was too hard to fully remember and follow.
 - 1.6.0 The Revival. The game has been considerably reworked and reorganized.
-- 1.6.1 Wolf, Bear, Squid added. Fixed Gameplay Mechanics for 7+ players
+- **1.6.1** Wolf, Bear, Squid added. Fixed Gameplay Mechanics for 7+ players
